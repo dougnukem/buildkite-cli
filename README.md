@@ -1,5 +1,7 @@
 # bk
 
+[![Build Status](https://travis-ci.org/wolfeidau/buildkite-cli.svg?branch=master)](https://travis-ci.org/wolfeidau/buildkite-cli)
+
 A simple command line interface to the [buildkite](http://buildkite.com) service.
 
 ![ScreenShot](/docs/buildkite-cli-builds.gif)
